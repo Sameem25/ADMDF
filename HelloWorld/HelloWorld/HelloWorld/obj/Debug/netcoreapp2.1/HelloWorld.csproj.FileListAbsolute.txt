@@ -1,0 +1,22 @@
+E:\Source\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+E:\Source\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+E:\Source\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+E:\Source\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+E:\Source\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+E:\Source\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+E:\Source\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Source\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+E:\Source\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+E:\Source\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+E:\Source\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Sameem Ali\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
