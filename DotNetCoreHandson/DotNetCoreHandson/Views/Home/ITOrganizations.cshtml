@@ -1,0 +1,25 @@
+﻿
+@{
+    List<string> Organizations = new List<string>()
+    {
+        "Microsoft-www.microsoft.com","CTS-www.cognizant.com", "Google", "Amazon", "TCS-www.tcs.com"
+    };
+}
+
+<h2>
+    IT Organizations in India
+</h2>
+
+@foreach (var item in Organizations)
+{
+<div>
+    @if (item.StartsWith("Amazon"))
+    {
+       <b>@item</b>
+    }
+    else
+    {
+        <i>@item</i>
+    }
+</div>
+}
